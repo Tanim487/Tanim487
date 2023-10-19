@@ -2,7 +2,7 @@
 - 👀 I’m interested in web design and development
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...Facebook: www.facebook.com/Tanim487
+- 📫 How to reach me->Facebook: www.facebook.com/Tanim487
 - 
 
 <!---
