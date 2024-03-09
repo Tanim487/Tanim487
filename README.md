@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me->Facebook: www.facebook.com/Tanim487
-- 
 
 <!---
 Tanim487/Tanim487 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
