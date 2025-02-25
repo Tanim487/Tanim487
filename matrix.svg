@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <style>
+    @keyframes fall { to { transform: translateY(105%); } }
+    text { 
+      font-family: monospace;
+      font-size: 5px;
+      fill: #0f0;
+      animation: fall 2s linear infinite;
+    }
+  </style>
+  <text x="10" y="10">0101010101</text>
+  <text x="30" y="15">1101001010</text>
+  <text x="50" y="20">0010101001</text>
+</svg>
