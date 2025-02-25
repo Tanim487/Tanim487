@@ -1,0 +1,59 @@
+<!-- Save this as scene.svg in your repo -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400" preserveAspectRatio="xMidYMid meet">
+  <style>
+    @keyframes walk {
+      0% { transform: translateX(-100px); }
+      100% { transform: translateX(900px); }
+    }
+    @keyframes day-night {
+      0% { opacity: 0; }
+      50% { opacity: 1; }
+      100% { opacity: 0; }
+    }
+    @keyframes sun-moon {
+      0% { transform: translateX(0) translateY(0); fill: #FDB813 }
+      50% { transform: translateX(400px) translateY(50px); fill: #FFFFFF }
+      100% { transform: translateX(800px) translateY(0); fill: #FDB813 }
+    }
+    .man { animation: walk 25s linear infinite; }
+    .night-overlay { animation: day-night 30s infinite; }
+    .sun-moon { animation: sun-moon 30s linear infinite; }
+    .stars { opacity: 0; animation: day-night 30s infinite reverse; }
+  </style>
+
+  <!-- Day Sky -->
+  <rect width="100%" height="100%" fill="#87CEEB"/>
+  
+  <!-- Night Overlay -->
+  <rect class="night-overlay" width="100%" height="100%" fill="#00092D" opacity="0"/>
+  
+  <!-- Sun/Moon -->
+  <circle class="sun-moon" cx="-50" cy="100" r="30" fill="#FDB813"/>
+  
+  <!-- Buildings -->
+  <rect x="50" y="220" width="40" height="180" fill="#607D8B"/>
+  <rect x="120" y="180" width="60" height="220" fill="#455A64"/>
+  <rect x="220" y="200" width="55" height="200" fill="#546E7A"/>
+  <rect x="320" y="240" width="45" height="160" fill="#37474F"/>
+  
+  <!-- Walking Man -->
+  <g class="man">
+    <!-- Body -->
+    <line x1="0" y1="300" x2="0" y2="270" stroke="#37474F" stroke-width="2"/>
+    <!-- Head -->
+    <circle cx="0" cy="260" r="5" fill="#37474F"/>
+    <!-- Briefcase -->
+    <rect x="-10" y="290" width="20" height="8" fill="#795548"/>
+    <!-- Legs -->
+    <path d="M0 300 l-10 20 l10 -5 l10 5" stroke="#37474F" fill="none" stroke-width="2"/>
+  </g>
+
+  <!-- Stars -->
+  <g class="stars">
+    <circle cx="100" cy="80" r="1.5" fill="white" opacity="0.8"/>
+    <circle cx="250" cy="60" r="1.2" fill="white" opacity="0.6"/>
+    <circle cx="400" cy="90" r="1" fill="white" opacity="0.7"/>
+    <circle cx="550" cy="70" r="1.3" fill="white" opacity="0.9"/>
+    <circle cx="700" cy="85" r="1.1" fill="white" opacity="0.5"/>
+  </g>
+</svg>
