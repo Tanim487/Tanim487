@@ -24,7 +24,7 @@
 <div align="center">
   <h2>
     <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExc21vbDJ4eGh3eHBlMjI5Zmp6cHhmZjJ2OHM5d2p4NjUzaTBjM2ozZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/6n6N2o22gKVeDQDGy8/giphy.gif" width="50px">
-    <span style="color:#00E8FC"> &lt; ABOUT_ME /&gt; </span>
+    <span style="color:#00E8FC"> &lt; Little_bit_ABOUT_ME /&gt; </span>
     <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExc21vbDJ4eGh3eHBlMjI5Zmp6cHhmZjJ2OHM5d2p4NjUzaTBjM2ozZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/6n6N2o22gKVeDQDGy8/giphy.gif" width="20">
   </h2>
 </div>
@@ -71,6 +71,30 @@ const tanim = {
         </div>
       </td>
       <td valign="top" width="33%">
+        <h3 align="center">Database</h3>
+        <div align="center">
+          <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+          <br>
+          <div style="display: inline-block; width: 150px; background: linear-gradient(to right, #FF8C00, #8A2BE2); height: 5px; margin-top: 10px; border-radius: 3px;"></div>
+        </div>
+      </td>
+    </tr>
+  </table>
+  <table>
+    <tr>
+      <td valign="top" width="80%">
+        <h3 align="center">Languages Effeciency</h3>
+        <div align="center">
+          <img src="https://skillicons.dev/icons?i=c,cpp,java,python" />
+          <br>
+          <div style="display: inline-block; width: 150px; background: linear-gradient(to right, #FF8C00, #8A2BE2); height: 5px; margin-top: 10px; border-radius: 3px;"></div>
+        </div>
+      </td>
+    </tr>
+  </table>
+  <table>
+    <tr>
+      <td valign="top" width="80%">
         <h3 align="center">Tools</h3>
         <div align="center">
           <img src="https://skillicons.dev/icons?i=git,vscode,github,figma" />
