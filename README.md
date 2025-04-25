@@ -45,9 +45,9 @@
                               ║                                                                              ║
                               ║     const tanim = {                                                          ║
                               ║       status:       "Beginner Developer",                                    ║
-                              ║       learning:     [ "AI", "Blockchain", "Full Stack Development" ],          ║
+                              ║       learning:     [ "AI", "Blockchain", "Full Stack Development" ],        ║
                               ║       currentFocus: "Building coding foundation",                            ║
-                              ║       interests:    [ "DSA", "Web Development", "Open Source" ],               ║
+                              ║       interests:    [ "DSA", "Web Development", "Open Source" ],             ║
                               ║       contactMe:    "mtanim223487@gmail.com",                                ║
                               ║       funFact:      "Even quantum computers started with a single bit"       ║
                               ║     };                                                                       ║
