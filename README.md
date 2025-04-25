@@ -1,14 +1,16 @@
 <!-- HEADER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:FF8C00&height=190&section=header&text=T%20A%20N%20I%20M&fontSize=60&fontColor=FFFFFF&animation=twinkling&fontAlignY=38&desc=Coding%20the%20Future&descAlignY=55&descSize=15" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:FF8C00&height=190&section=header&text=T%20A%20N%20I%20M&fontSize=60&fontColor=FFFFFF&animation=twinkling&fontAlignY=38&desc=Lets%20Code%20the%20Future&descAlignY=55&descSize=15" width="100%"/>
 </div>
 <div align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOG9lc3JiYWF0dXg1dWlwdWdncGZ4NnRjc3Vzczh2eWYyMnE0MmdxNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2ESvLcJqSABzwu1nPQ/giphy.gif" width="450px">
 </div>
 <!-- ANIMATED INTRO -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00E8FC&center=true&vCenter=true&width=435&lines=WELCOME+TO+THE+FUTURE;EXPLORING+DIGITAL+FRONTIERS;CODING+THE+IMPOSSIBLE;LEARNING+%7C+BUILDING+%7C+EVOLVING" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00E8FC&center=true&vCenter=true&width=435&lines=Welcome+to+the+error+factory%2C;Where+bugs+are+born+and;Solutions+are+a+work+in+progress.;Code%3F+Sometimes.;Runs+on+luck.;Ctrl+Z+is+my+superpower.;Still+learning%2C+Still+debugging." alt="Typing SVG" />
 </h1>
+
+
 
 <!-- HERO SECTION -->
 <div align="center">
@@ -24,20 +26,35 @@
 <div align="center">
   <h2>
     <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExc21vbDJ4eGh3eHBlMjI5Zmp6cHhmZjJ2OHM5d2p4NjUzaTBjM2ozZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/6n6N2o22gKVeDQDGy8/giphy.gif" width="50px">
-    <span style="color:#00E8FC"> &lt; Little_bit_ABOUT_ME /&gt; </span>
+    <span style="color:#00E8FC"> &lt; ABOUT_ME /&gt; </span>
     <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExc21vbDJ4eGh3eHBlMjI5Zmp6cHhmZjJ2OHM5d2p4NjUzaTBjM2ozZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/6n6N2o22gKVeDQDGy8/giphy.gif" width="20">
   </h2>
 </div>
 
 ```javascript
-const tanim = {
-  status: "Beginner Developer",
-  learning: ["AI", "Blockchain", "Full Stack Development"],
-  currentFocus: "Building coding foundation",
-  interests: ["DSA", "Web Development", "Open Source"],
-  contactMe: "mtanim223487@gmail.com",
-  funFact: "Even quantum computers started with a single bit"
-};
+                              ╔══════════════════════════════════════════════════════════════════════════════╗
+                              ║                                                                              ║ 
+                              ║                 ████████╗ █████╗ ███╗   ██╗██╗███╗   ███╗                    ║            
+                              ║                 ╚══██╔══╝██╔══██╗████╗  ██║██║████╗  ████║                   ║             
+                              ║                    ██║   ███████║██╔██╗ ██║██║██╔██╗ ██╔██║                  ║             
+                              ║                    ██║   ██╔══██║██║╚██╗██║██║██║╚██╗██║██║                  ║             
+                              ║                    ██║   ██║  ██║██║ ╚████║██║██║ ╚████║██║                  ║             
+                              ║                    ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝╚═╝  ╚═══╝╚═╝                  ║             
+                              ║                                                                              ║
+                              ╠══════════════════════════════════════════════════════════════════════════════╣
+                              ║                                                                              ║
+                              ║     const tanim = {                                                          ║
+                              ║       status:       "Beginner Developer",                                    ║
+                              ║       learning:     [ "AI", "Blockchain", "Full Stack Development" ],          ║
+                              ║       currentFocus: "Building coding foundation",                            ║
+                              ║       interests:    [ "DSA", "Web Development", "Open Source" ],               ║
+                              ║       contactMe:    "mtanim223487@gmail.com",                                ║
+                              ║       funFact:      "Even quantum computers started with a single bit"       ║
+                              ║     };                                                                       ║
+                              ║                                                                              ║
+                              ╠══════════════════════════════════════════════════════════════════════════════╣
+                              ║   [ACCESS_LEVEL: PUBLIC] | [STATUS: ONLINE] | [LOCATION: GITHUB_MAINFRAME]   ║
+                              ╚══════════════════════════════════════════════════════════════════════════════╝
 ```
 
 <div align="center">
@@ -177,27 +194,61 @@ const tanim = {
 <!-- QUANTUM ROADMAP -->
 <h2 align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnM2bWxjMTNrNXludjVvZ2Q4MTF2YW02cG01NWxxZnJmaXJoaTNuaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WFZvB7VIXBgiz3oDXE/giphy.gif" width="30"> 
-  QUANTUM ROADMAP
+  My CSE ROADMAP
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnM2bWxjMTNrNXludjVvZ2Q4MTF2YW02cG01NWxxZnJmaXJoaTNuaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WFZvB7VIXBgiz3oDXE/giphy.gif" width="30">
 </h2>
 
 ```mermaid
-graph LR
-    A[START] --> B[Master HTML/CSS]
-    B --> C[JavaScript Proficiency]
-    C --> D[React Framework]
-    D --> E[Full-Stack Development]
-    E --> F[AI & ML Fundamentals]
-    F --> G[Blockchain Technology]
-    G --> H[FUTURE]
-    style A fill:#00E8FC,stroke:#FF8C00,color:#FFFFFF
-    style B fill:#8A2BE2,stroke:#FF8C00,color:#FFFFFF
-    style C fill:#00E8FC,stroke:#FF8C00,color:#FFFFFF
-    style D fill:#8A2BE2,stroke:#FF8C00,color:#FFFFFF
-    style E fill:#00E8FC,stroke:#FF8C00,color:#FFFFFF
-    style F fill:#8A2BE2,stroke:#FF8C00,color:#FFFFFF
-    style G fill:#00E8FC,stroke:#FF8C00,color:#FFFFFF
-    style H fill:#FF8C00,stroke:#8A2BE2,color:#FFFFFF
+graph TD
+    A[Started CSE in UIU <br> Fall 2022] --> B[Basic Programming in C]
+    B --> C[SPL in C <br> Loops, Arrays, Functions]
+
+    C --> E[OOP in Java]
+    C --> F[HTML/CSS Mastery]
+    F --> H[JavaScript + DOM]
+    H --> P
+
+    E --> G[DSA in C++]
+    G --> J[AI in Python]
+    J --> N[Computer Networking Fundamentals]
+    G --> O[Circuit & Electronics]
+    
+    %% Projects (Green)
+    D[Project <br><h3> Patient Management System </h3>] --> C
+    F1[AOOP Project <br><h3> Library Management System </h3>] --> E
+    I[Interactive Projects <br><h3> Digital Diary </h3>] --> H
+    L[Mini AI Projects <br><h3> Speech Recognition, Chatbot </h3>] --> J
+    M[Hardware Project using Arduino & IoT <br><h3> Firefighting Robot </h3>] --> O
+
+    %% Freelance & Dream (Orange)
+    P[Freelance Exploration: Fiverr, Upwork] --> Q
+    Q[Dream: Software Dev <br> + AI + Blockchain]
+
+    %% Color Styles
+    style A fill:#FF1493,stroke:#FF1493,color:#FFFFFF  %% Unique color for Start
+
+    %% Academic Courses (Blue)
+    style B fill:#8A2BE2,stroke:#8A2BE2,color:#FFFFFF
+    style C fill:#8A2BE2,stroke:#8A2BE2,color:#FFFFFF
+    style E fill:#8A2BE2,stroke:#8A2BE2,color:#FFFFFF
+    style G fill:#8A2BE2,stroke:#8A2BE2,color:#FFFFFF
+    style N fill:#8A2BE2,stroke:#8A2BE2,color:#FFFFFF
+    style O fill:#8A2BE2,stroke:#8A2BE2,color:#FFFFFF
+    style J fill:#8A2BE2,stroke:#32CD32,color:#FFFFFF
+
+    %% Projects (Green)
+    style F1 fill:#32CD32,stroke:#32CD32,color:#FFFFFF
+    style D fill:#32CD32,stroke:#32CD32,color:#FFFFFF
+    style I fill:#32CD32,stroke:#32CD32,color:#FFFFFF
+    style L fill:#32CD32,stroke:#32CD32,color:#FFFFFF
+    style M fill:#32CD32,stroke:#32CD32,color:#FFFFFF
+
+
+    %% Freelance & Dream (Orange)
+    style P fill:#FF8C00,stroke:#FF8C00,color:#FFFFFF
+    style Q fill:#FF8C00,stroke:#FF8C00,color:#FFFFFF
+
+
 ```
 
 <!-- CODER MILESTONES -->
