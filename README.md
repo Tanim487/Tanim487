@@ -46,9 +46,9 @@ const tanim = {
 
 <!-- MATRIX-STYLE SKILL GRID -->
 <h2 align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmkzenYyZWl2djYzcmFpNXZsenBlb2M2YXExOTl6dnNmcm91NGg3dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3o7btPuzZj4QwVQ7pC/giphy.gif" width="25"> 
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTV6dm0wenI0d2E1b3BpanpvbnRwem00NTJ1dmV2cDhwdTA0cHRjdCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/oOylMv2oLDxcxGzYn6/giphy.gif" width="60"> 
   TECH MATRIX
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmkzenYyZWl2djYzcmFpNXZsenBlb2M2YXExOTl6dnNmcm91NGg3dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3o7btPuzZj4QwVQ7pC/giphy.gif" width="25">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTV6dm0wenI0d2E1b3BpanpvbnRwem00NTJ1dmV2cDhwdTA0cHRjdCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/oOylMv2oLDxcxGzYn6/giphy.gif" width="20">
 </h2>
 
 <div align="center">
@@ -84,9 +84,9 @@ const tanim = {
 
 <!-- DIGITAL STATS SECTION -->
 <h2 align="center">
-  <img src="https://media2.giphy.com/media/QaMhWvbA5pHWM39qUr/giphy.gif?cid=ecf05e47jhz1duljlsh3qy8tg61q9yzdvp4p0fszgdwrpzol&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="30"> 
+  <img src="https://media.giphy.com/media/qjHQs4TihmojBmYp5X/giphy.gif?cid=ecf05e47hu9x17cbxa8nl96cb7sdipmrk9d5pgw6ap2d0dm2&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="50"> 
   SYSTEM ANALYTICS
-  <img src="https://media2.giphy.com/media/QaMhWvbA5pHWM39qUr/giphy.gif?cid=ecf05e47jhz1duljlsh3qy8tg61q9yzdvp4p0fszgdwrpzol&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="30">
+  <img src="https://media.giphy.com/media/qjHQs4TihmojBmYp5X/giphy.gif?cid=ecf05e47hu9x17cbxa8nl96cb7sdipmrk9d5pgw6ap2d0dm2&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="20">
 </h2>
 
 <div align="center">
