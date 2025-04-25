@@ -10,8 +10,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00E8FC&center=true&vCenter=true&width=435&lines=Welcome+to+the+error+factory%2C;Where+bugs+are+born+and;Solutions+are+a+work+in+progress.;Code%3F+Sometimes.;Runs+on+luck.;Ctrl+Z+is+my+superpower.;Still+learning%2C+Still+debugging." alt="Typing SVG" />
 </h1>
 
-
-
 <!-- HERO SECTION -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="75%">
