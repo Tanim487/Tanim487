@@ -144,20 +144,32 @@ const tanim = {
 </h2>
 
 <div align="center">
-  <a href="https://github.com/mtanim223487">
-    <img src="https://img.shields.io/badge/HTML-70%25-FF8C00?style=for-the-badge&logo=html5&logoColor=white&labelColor=1A1B27" />
+  <a href="https://github.com/Tanim487">
+    <img src="https://img.shields.io/badge/C-93%25-6A0DAD?style=for-the-badge&logo=c&logoColor=white&labelColor=1A1B27" />
   </a>
-  <a href="https://github.com/mtanim223487">
-    <img src="https://img.shields.io/badge/CSS-60%25-8A2BE2?style=for-the-badge&logo=css3&logoColor=white&labelColor=1A1B27" />
+  <a href="https://github.com/Tanim487">
+    <img src="https://img.shields.io/badge/C++-78%25-C71585?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=1A1B27" />
   </a>
-  <a href="https://github.com/mtanim223487">
-    <img src="https://img.shields.io/badge/JavaScript-50%25-00E8FC?style=for-the-badge&logo=javascript&logoColor=white&labelColor=1A1B27" />
+  <a href="https://github.com/Tanim487">
+    <img src="https://img.shields.io/badge/JAVA-87%25-B57EDC?style=for-the-badge&logo=java&logoColor=white&labelColor=1A1B27" />
+  </a>
+  <a href="https://github.com/Tanim487">
+    <img src="https://img.shields.io/badge/Python-49%25-FF00FF?style=for-the-badge&logo=python&logoColor=white&labelColor=1A1B27" />
   </a>
   <br>
-  <a href="https://github.com/mtanim223487">
-    <img src="https://img.shields.io/badge/Python-40%25-FF00FF?style=for-the-badge&logo=python&logoColor=white&labelColor=1A1B27" />
+  <br>
+  <a href="https://github.com/Tanim487">
+    <img src="https://img.shields.io/badge/HTML-73%25-FF8C00?style=for-the-badge&logo=html5&logoColor=white&labelColor=1A1B27" />
   </a>
-  <a href="https://github.com/mtanim223487">
+  <a href="https://github.com/Tanim487">
+    <img src="https://img.shields.io/badge/CSS-67%25-8A2BE2?style=for-the-badge&logo=css3&logoColor=white&labelColor=1A1B27" />
+  </a>
+  <a href="https://github.com/Tanim487">
+    <img src="https://img.shields.io/badge/JavaScript-56%25-00E5FC?style=for-the-badge&logo=javascript&logoColor=white&labelColor=1A1B27" />
+  </a>
+  <br>
+  <br>
+  <a href="https://github.com/Tanim487">
     <img src="https://img.shields.io/badge/React-20%25-00FFFF?style=for-the-badge&logo=react&logoColor=white&labelColor=1A1B27" />
   </a>
 </div>
