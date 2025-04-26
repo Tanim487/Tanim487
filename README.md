@@ -253,7 +253,7 @@ graph TD
 <h2 align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHNreTZ5enFyb21qbzVkM3VndDNwMGdhcWU4amxxajU3cTUxNGF0NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/IUNycHoVqvLDowiiam/giphy.gif" width="50"> 
   MISSION CHECKPOINTS
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHNreTZ5enFyb21qbzVkM3VndDNwMGdhcWU4amxxajU3cTUxNGF0NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/IUNycHoVqvLDowiiam/giphy.gif" width="50">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHNreTZ5enFyb21qbzVkM3VndDNwMGdhcWU4amxxajU3cTUxNGF0NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/IUNycHoVqvLDowiiam/giphy.gif" width="20">
 </h2>
 
 <div align="center">
@@ -287,9 +287,9 @@ graph TD
 
 <!-- COMMUNICATION PORTAL -->
 <h2 align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2FmZ292bXE1Nm4yemZ2ZW9kODRxOGJpbXJkMzJ4b2R5dXVhcDZuaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LzC5VmW17fM7rCRW9w/giphy.gif" width="45"> 
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2FmZ292bXE1Nm4yemZ2ZW9kODRxOGJpbXJkMzJ4b2R5dXVhcDZuaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LzC5VmW17fM7rCRW9w/giphy.gif" width="50"> 
   COMMUNICATION PORTAL
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2FmZ292bXE1Nm4yemZ2ZW9kODRxOGJpbXJkMzJ4b2R5dXVhcDZuaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LzC5VmW17fM7rCRW9w/giphy.gif" width="45">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2FmZ292bXE1Nm4yemZ2ZW9kODRxOGJpbXJkMzJ4b2R5dXVhcDZuaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LzC5VmW17fM7rCRW9w/giphy.gif" width="20">
 </h2>
 
 <div align="center">
