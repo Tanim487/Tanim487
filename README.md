@@ -1,4 +1,4 @@
-<!-- HEADER Section-->
+<!-- HEADER -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:FF8C00&height=190&section=header&text=T%20A%20N%20I%20M&fontSize=60&fontColor=FFFFFF&animation=twinkling&fontAlignY=38&desc=Lets%20Code%20the%20Future&descAlignY=55&descSize=15" width="100%"/>
 </div>
