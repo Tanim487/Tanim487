@@ -191,9 +191,9 @@
 
 <!-- QUANTUM ROADMAP -->
 <h2 align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnM2bWxjMTNrNXludjVvZ2Q4MTF2YW02cG01NWxxZnJmaXJoaTNuaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WFZvB7VIXBgiz3oDXE/giphy.gif" width="30"> 
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnM2bWxjMTNrNXludjVvZ2Q4MTF2YW02cG01NWxxZnJmaXJoaTNuaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WFZvB7VIXBgiz3oDXE/giphy.gif" width="50"> 
   My CSE ROADMAP
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnM2bWxjMTNrNXludjVvZ2Q4MTF2YW02cG01NWxxZnJmaXJoaTNuaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WFZvB7VIXBgiz3oDXE/giphy.gif" width="30">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnM2bWxjMTNrNXludjVvZ2Q4MTF2YW02cG01NWxxZnJmaXJoaTNuaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WFZvB7VIXBgiz3oDXE/giphy.gif" width="20">
 </h2>
 
 ```mermaid
