@@ -153,9 +153,9 @@
 
 <!-- DIGITAL SKILL BARS -->
 <h2 align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExemRrMW02ejZzaHFkcW8xYjZ1b2hiZXE2ejJ5dzA3Z2htMzkwYTA4NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/pYbvUjyNxsVHBSG2Rv/giphy.gif" width="50"> 
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnRpb2w5emo5cGhocnZmbHR1cW56Y21weWRkZzl2ZWN2bmFjeHI2bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/20JY76TfKAhR20SfJu/giphy.gif" width="70"> 
   SKILL PROGRESSION
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExemRrMW02ejZzaHFkcW8xYjZ1b2hiZXE2ejJ5dzA3Z2htMzkwYTA4NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/pYbvUjyNxsVHBSG2Rv/giphy.gif" width="20">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnRpb2w5emo5cGhocnZmbHR1cW56Y21weWRkZzl2ZWN2bmFjeHI2bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/20JY76TfKAhR20SfJu/giphy.gif" width="20">
 </h2>
 
 <div align="center">
@@ -191,9 +191,9 @@
 
 <!-- QUANTUM ROADMAP -->
 <h2 align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnM2bWxjMTNrNXludjVvZ2Q4MTF2YW02cG01NWxxZnJmaXJoaTNuaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WFZvB7VIXBgiz3oDXE/giphy.gif" width="50"> 
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGRmbzA1cjRidXVzY2hmYjd3czlzeWp1OHhtZ2F4NjR2Y3dnOHJkbiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/XHAv3GveJMXMXSumkO/giphy.gif" width="60"> 
   My CSE ROADMAP
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnM2bWxjMTNrNXludjVvZ2Q4MTF2YW02cG01NWxxZnJmaXJoaTNuaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WFZvB7VIXBgiz3oDXE/giphy.gif" width="20">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGRmbzA1cjRidXVzY2hmYjd3czlzeWp1OHhtZ2F4NjR2Y3dnOHJkbiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/XHAv3GveJMXMXSumkO/giphy.gif" width="20">
 </h2>
 
 ```mermaid
