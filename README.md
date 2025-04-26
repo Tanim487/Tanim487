@@ -263,23 +263,23 @@ graph TD
         <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExODZ0aGV1bWNwaW02MHc0NmI3OWFnem5lc2RnbGFpdnd0MzAzMmk4bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/doScst9gXK9Sgz8XQr/giphy.gif" width="25"> GitHub Account Created
       </td>
       <td>
-        <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDNkdW1mdXdkczJ3N24zZGwzaDEzZjAydTF4ZWpmM25xbmR6Y203ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/71Zc3WucVlxJc74G3T/giphy.gif" width="25"> Learned Git Basics
+        <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDNkdW1mdXdkczJ3N24zZGwzaDEzZjAydTF4ZWpmM25xbmR6Y203ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/71Zc3WucVlxJc74G3T/giphy.gif" width="25"> Learned Git Basics (clone, commit, push, pull)
       </td>
     </tr>
     <tr>
       <td>
-        <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnE1ZWYxaDYxN2dwOGgxdmpqN3BvbThhYzRxc3EwajFqbHllMHdkNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Ll22OhMLAlVDb8UQWe/giphy.gif" width="25"> Created Futuristic README
+        <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnE1ZWYxaDYxN2dwOGgxdmpqN3BvbThhYzRxc3EwajFqbHllMHdkNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Ll22OhMLAlVDb8UQWe/giphy.gif" width="25"> Created README & Setup Github Account
       </td>
       <td>
-        <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGdscWVzM3kwdTNpaTR0cDZ6OGg0MTRmZzNzb2QzcGZmM2ZoMmpqbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kAOLIElkZbgTq12KLp/giphy.gif" width="25"> Complete First Coding Challenge
+        <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGdscWVzM3kwdTNpaTR0cDZ6OGg0MTRmZzNzb2QzcGZmM2ZoMmpqbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kAOLIElkZbgTq12KLp/giphy.gif" width="25"> Complete a personal project and upload it
       </td>
     </tr>
     <tr>
       <td>
-        <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWw2bG56ZDA5dnJua2Z2Z3Q3OXRxcjhvM3dyZG11NzlwMDNramliaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/MBCodZbEhb2jSNUZNd/giphy.gif" width="25"> Contribute to Open Source
+        <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWw2bG56ZDA5dnJua2Z2Z3Q3OXRxcjhvM3dyZG11NzlwMDNramliaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/MBCodZbEhb2jSNUZNd/giphy.gif" width="25"> Collaborate on a group project
       </td>
       <td>
-        <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGQzOGFidG9pZDEza243enV2a2pmNXBuaTVwcWVtdjFmZzR1MzVqZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/FWyLGar0fQADQeKWYc/giphy.gif" width="25"> Build First Web Application
+        <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGQzOGFidG9pZDEza243enV2a2pmNXBuaTVwcWVtdjFmZzR1MzVqZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/FWyLGar0fQADQeKWYc/giphy.gif" width="25"> Build First Web Application ( full-stack application )
       </td>
     </tr>
   </table>
